@@ -107,7 +107,7 @@ body {
   background: rgba(40,44,52,0.85) !important;
 }
 .gradient-btn {
-  background: linear-gradient(90deg, #6366f1 0%, #a21caf 100%) !important;
+  background: linear-gradient(135deg, #e0e7ff 0%, #f3e8ff 100%) !important;
   color: #fff !important;
   border: none !important;
   box-shadow: 0 2px 8px 0 rgba(99,102,241,0.10);
